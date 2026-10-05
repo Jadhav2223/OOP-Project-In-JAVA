@@ -1,0 +1,17 @@
+concatteation Jadhav Jayesh
+length of string 6
+character of string a
+substring of string Jad
+equals str1 and str2 false
+uppercase str1 : JADHAV
+lowwercase string :jadhav
+square root of a4.0
+a raised to b: 28526.20085808741
+max of a and b :16.0
+min  of a and b :3.7
+random number (0-1) :0.392476805876246
+random number (10-20)14.897697942750366
+random number (1-100)31.793117426302928
+ceil of b: 4.0
+floor  of b: 3.0
+round of b: 4
