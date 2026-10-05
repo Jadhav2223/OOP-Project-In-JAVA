@@ -1,0 +1,8 @@
+Add twp integer : 15
+Add three integer : 30
+Add twp Double : 10.3
+name : unknow, Age : 0
+name : Jadhav, Age : 19
+name : Jadhav, Age : 19
+Student S4 details (reference to S2): 
+name : Jadhav, Age : 19
